@@ -1,4 +1,6 @@
-# EthereumTest
+# EthereumInbox
+
+** This project is taken from a Udemy course by Stephen Grider
 
 To run on your computer:
 1) Have npm, node and solidity installed
